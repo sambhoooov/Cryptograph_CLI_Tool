@@ -1,4 +1,4 @@
-# CryptoCLI: Discrete Mathematics & Cryptography Engine
+# CryptographCLI: Discrete Mathematics & Cryptography Engine
 
 A modular, dependency-free command-line application that demonstrates fundamental algorithms, factoring methods, array techniques, and asymmetric cryptography[cite: 1, 2, 4]. Developed in alignment with the **CSE1021 Introduction to Problem Solving and Programming** curriculum[cite: 1].
 
